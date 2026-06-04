@@ -1,0 +1,17 @@
+body { background-color: #C8A2C8; }
+.pink { color: #F01097 }
+.magenta { color: magenta }
+.marco { border: 5px solid #FF69B4;
+        width="300";
+        height="200" }
+h1 { color: purple }
+.white { color: white }
+.pretty { text-align: center }
+.marquitos { border: 7px solid violet }
+.lines { text-decoration: underline }
+.omg { font-size: 45px }
+.yes { font-size: 24px }
+.no {font-size: 30px }
+.pe {font-size: 20px }
+.cute {font-style: italic }
+.bg {background-color: white }
